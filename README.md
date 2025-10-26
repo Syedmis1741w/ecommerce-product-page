@@ -37,9 +37,10 @@ This project is a simple and responsive E-Commerce product display webpage built
 ---
 
 ## Screenshots
-(Add your page screenshot here later)
+<img width="1710" height="1107" alt="Screenshot 2025-10-26 at 11 20 09 PM" src="https://github.com/user-attachments/assets/29c16c32-7cac-43a4-8fb3-7a357060f9b2" />
+
 
 ---
 
 ## Author
-**Your Name**
+Syed Misbah Uddin Haseeb
